@@ -1,0 +1,16 @@
+{
+  "name": "todomvc-cypress-tests",
+  "version": "1.0.0",
+  "description": "Cypress end to end tests for the React TodoMVC demo",
+  "main": "cypress.config.js",
+  "scripts": {
+    "test": "cypress run",
+    "open": "cypress open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^16.4.0"
+  }
+}
