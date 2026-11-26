@@ -18,8 +18,8 @@ End to end tests with [Cypress](https://www.cypress.io) for the React version of
 ## Run it
 
 ```bash
-git clone https://github.com/Belaalos/todomvc-cypress-tests.git
-cd todomvc-cypress-tests
+git clone https://github.com/Belaalos/task-manager-cypress-e2e.git
+cd task-manager-cypress-e2e
 npm install
 npm test            # headless
 npm run open        # Cypress app, see the browser

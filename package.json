@@ -1,5 +1,5 @@
 {
-  "name": "todomvc-cypress-tests",
+  "name": "task-manager-cypress-e2e",
   "version": "1.0.0",
   "description": "Cypress end to end tests for the React TodoMVC demo",
   "main": "cypress.config.js",
